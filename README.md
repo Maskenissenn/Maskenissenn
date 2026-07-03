@@ -33,14 +33,12 @@ My tech skills:
   Databases:
   
     PostgreSQL
-    SQLite
   
   Cloud & DevOps:
   
     Docker
     Git
     GitHub
-    Linux
   
   AI:
   
