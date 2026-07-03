@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI and ML
 - 👯 I want to collaborate in the field of ML and artificial intelligence
 - 📫 How to reach me: bissekenovdaniyar27@gmail.com / @Infinitaas - Telegram / maskenissen - Discord
+
 My tech skills:
   Programming:
   
