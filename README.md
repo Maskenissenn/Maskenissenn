@@ -5,6 +5,7 @@
 - 📫 How to reach me: bissekenovdaniyar27@gmail.com / @Infinitaas - Telegram / maskenissen - Discord
 
 My tech skills:
+
   Programming:
   
     Python
